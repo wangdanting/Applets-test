@@ -1,0 +1,36 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "王丹婷小程序开发练习",
+    "backgroundColor": "#f9f9f9",
+    "navigationBarTextStyle":"black",
+    "enablePullDownRefresh": true,
+    "onReachBottomDistance": 60
+  },
+  "networkTimeout": {
+    "request": 20000,
+    "downloadFile": 20000
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "首页",
+      "iconPath": "pages/image/moto.png"
+    }, {
+      "pagePath": "pages/logs/logs",
+      "text": "日志",
+      "iconPath": "pages/image/chongdian.png"
+    }],
+    "color": "#000",
+    "selectedColor": "#ccc",
+    "backgroundColor": "#476e87",
+    "borderStyle": "black",
+    "position": "bottom"
+  },
+  "debug": true
+}

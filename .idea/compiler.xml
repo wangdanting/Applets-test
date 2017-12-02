@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$USER_HOME$/GitLab/meicanyun-parent/meicanyun-mobile-web/src/main/assets/node_modules" includeSubdirectories="true" />
+      <directory url="file://$USER_HOME$/GitLab/meicanyun-parent/meicanyun-screen-web/src/main/assets/node_modules" includeSubdirectories="true" />
+    </excludeFromCompile>
+  </component>
+</project>
