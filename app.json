@@ -19,11 +19,11 @@
   "tabBar": {
     "list": [{
       "pagePath": "pages/index/index",
-      "text": "首页",
+      "text": "我要租车",
       "iconPath": "pages/image/moto.png"
     }, {
       "pagePath": "pages/logs/logs",
-      "text": "日志",
+      "text": "我要换电",
       "iconPath": "pages/image/chongdian.png"
     }],
     "color": "#000",
