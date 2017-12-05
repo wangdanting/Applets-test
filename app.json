@@ -1,7 +1,11 @@
 {
   "pages":[
-    "pages/index/index",
-    "pages/logs/logs"
+      "pages/demo/index",
+      "pages/getRegeo/index",
+      "pages/navigation_car/index",
+      "pages/navigation_car_detail/index",
+      "pages/index/index",
+      "pages/logs/logs"
   ],
   "window":{
     "backgroundTextStyle":"light",

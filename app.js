@@ -4,9 +4,7 @@ App({
     // 展示本地存储能力
     var logs = wx.getStorageSync('logs') || []
     logs.unshift(Date.now());
-    logs.unshift(path);
     wx.setStorageSync('logs', logs);
-    console.log(path, 'xxx');
 
     // 登录
     wx.login({

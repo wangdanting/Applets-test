@@ -1,0 +1,10 @@
+<view class="map_container">
+   <map id="myMap"
+        class="map"
+        longitude="{{longitude}}"
+        latitude="{{latitude}}"
+        scale="14"
+        markers="{{markers}}"
+        polyline="{{polyline}}"
+        bindmarkertap="markerTap"></map>
+</view>
